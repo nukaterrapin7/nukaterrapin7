@@ -1,16 +1,17 @@
 <h1>Hello Traveler!</h1>
 
-I'm Scott, and you've found my github! I am a full stakc software developer.  In my off time I enjoy lots of avcitivies such as gaming, puzzles, reading fantasy novels, writing stories, or hiking any trails i can find.
+I'm Scott, and you've found my github! I am a full stakc software developer.  In my off time I enjoy lots of avcitivies such as 🎮gaming🎲, 🧩puzzles, 📚reading fantasy novels, 📝writing stories, or 🏔️hiking any trails i can find.
 
 Currently, I am a student at general Assembly learning React, and the MERN stack.
 
 I plan on learning a few other things such as C++, and Rust very soon!
 
 <h2> My Toolkit </h2>
+![image](https://user-images.githubusercontent.com/112293368/201434734-a5b69a05-498d-4ab9-aeb9-b5b7f774d90c.png)
 
 <h2> Contact </h2>
-<a href="scott.rubalcaba7@gmail.com">Email</a>
-
+Email(mailto:scott.rubalcaba7@gmail.com)
+<a href="https://www.linkedin.com/in/scottrubalcaba-se/">LinkedIn</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nukaterrapin7&show_icons=true&theme=midnight-purple)
 
