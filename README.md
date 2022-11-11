@@ -2,7 +2,7 @@
 
 I'm Scott, and you've found my github! I am a full stakc software developer.  In my off time I enjoy lots of avcitivies such as 🎮gaming🎲, 🧩puzzles, 📚reading fantasy novels, 📝writing stories, or 🏔️hiking any trails i can find.
 
-Currently, I am a student at general Assembly learning React, and the MERN stack.
+Currently, I am a student at General Assembly learning React, and the MERN stack.
 
 I plan on learning a few other things such as C++, and Rust very soon!
 
