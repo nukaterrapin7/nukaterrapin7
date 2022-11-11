@@ -8,6 +8,9 @@ I plan on learning a few other things such as C++, and Rust very soon!
 
 <h2> My Toolkit </h2>
 
+<h2> Contact </h2>
+<a href="scott.rubalcaba7@gmail.com">Email</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nukaterrapin7&show_icons=true&theme=midnight-purple)
 
