@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nukaterrapin7&show_icons=true&theme=midnight-purple)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nukaterrapin7&left_color=dark-purple&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nukaterrapin7&left_color=midnight-purple&right_color=red)
 
 <!--
 **nukaterrapin7/nukaterrapin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
